@@ -1,3 +1,9 @@
+Os ícones permitem assimilar qualquer mensagem com mais facilidade e rapidez
+
+Os ícones são um excelente recurso
+para levar as pessoas a associarem rapidamente uma imagem a um conteúdo ou tema específico (uma imágem vale mais que mil palavras)
+
+Os ícones melhoram a comunicação pois dão vida e melhoram os conteúdos sem precisar obrigar muitas vezes a recorrer a textos e legendas
 
 - Focar no que os usuários conhecem. Quando estiver em dúvida, faça testes!
 
